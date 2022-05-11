@@ -1,10 +1,7 @@
 # reset-senha-laravel
 
-[![issu Status](https://img.shields.io/github/issues/ok9xnirab/laravel-reset-password)](https://github.com/IANirab/laravel-reset-password/issues)
-[![Build Status](https://travis-ci.org/boennemann/badges.svg?branch=master)](https://github.com/IANirab/laravel-reset-password/releases) ![folk Status](https://img.shields.io/github/forks/ok9xnirab/laravel-reset-password)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/IANirab/laravel-reset-password/issues)
 
-This is a Laravel Package , where you can send 6-digits unique password in users. These Package Can easily validate users email if its listed or not !!
+Este é um Pacote Laravel, onde você pode enviar uma senha exclusiva de 6 dígitos nos usuários. Esses pacotes podem validar facilmente o e-mail dos usuários, se estiver listado ou não !!
 
 # Insatalação
 
